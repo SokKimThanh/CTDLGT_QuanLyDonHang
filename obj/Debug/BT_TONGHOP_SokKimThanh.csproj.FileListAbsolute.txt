@@ -1,0 +1,24 @@
+E:\TDC_HK2\HuongDanCode\BT_TONGHOP_SokKimThanh\bin\Debug\BT_TONGHOP_SokKimThanh.exe.config
+E:\TDC_HK2\HuongDanCode\BT_TONGHOP_SokKimThanh\bin\Debug\BT_TONGHOP_SokKimThanh.exe
+E:\TDC_HK2\HuongDanCode\BT_TONGHOP_SokKimThanh\bin\Debug\BT_TONGHOP_SokKimThanh.pdb
+E:\TDC_HK2\HuongDanCode\BT_TONGHOP_SokKimThanh\obj\Debug\BT_TONGHOP_SokKimThanh.csproj.AssemblyReference.cache
+E:\TDC_HK2\HuongDanCode\BT_TONGHOP_SokKimThanh\obj\Debug\BT_TONGHOP_SokKimThanh.csproj.SuggestedBindingRedirects.cache
+E:\TDC_HK2\HuongDanCode\BT_TONGHOP_SokKimThanh\obj\Debug\BT_TONGHOP_SokKimThanh.csproj.CoreCompileInputs.cache
+E:\TDC_HK2\HuongDanCode\BT_TONGHOP_SokKimThanh\obj\Debug\BT_TONGHOP_SokKimThanh.exe
+E:\TDC_HK2\HuongDanCode\BT_TONGHOP_SokKimThanh\obj\Debug\BT_TONGHOP_SokKimThanh.pdb
+G:\My Drive\CTDL&GTNgoMinhAnhThu\BT_TONGHOP_SokKimThanh\bin\Debug\BT_TONGHOP_SokKimThanh.exe.config
+G:\My Drive\CTDL&GTNgoMinhAnhThu\BT_TONGHOP_SokKimThanh\bin\Debug\BT_TONGHOP_SokKimThanh.exe
+G:\My Drive\CTDL&GTNgoMinhAnhThu\BT_TONGHOP_SokKimThanh\bin\Debug\BT_TONGHOP_SokKimThanh.pdb
+G:\My Drive\CTDL&GTNgoMinhAnhThu\BT_TONGHOP_SokKimThanh\obj\Debug\BT_TONGHOP_SokKimThanh.csproj.AssemblyReference.cache
+G:\My Drive\CTDL&GTNgoMinhAnhThu\BT_TONGHOP_SokKimThanh\obj\Debug\BT_TONGHOP_SokKimThanh.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\CTDL&GTNgoMinhAnhThu\BT_TONGHOP_SokKimThanh\obj\Debug\BT_TONGHOP_SokKimThanh.csproj.CoreCompileInputs.cache
+G:\My Drive\CTDL&GTNgoMinhAnhThu\BT_TONGHOP_SokKimThanh\obj\Debug\BT_TONGHOP_SokKimThanh.exe
+G:\My Drive\CTDL&GTNgoMinhAnhThu\BT_TONGHOP_SokKimThanh\obj\Debug\BT_TONGHOP_SokKimThanh.pdb
+G:\Drive của tôi\CTDL&GTNgoMinhAnhThu\BT_TONGHOP_SokKimThanh\bin\Debug\BT_TONGHOP_SokKimThanh.exe.config
+G:\Drive của tôi\CTDL&GTNgoMinhAnhThu\BT_TONGHOP_SokKimThanh\bin\Debug\BT_TONGHOP_SokKimThanh.exe
+G:\Drive của tôi\CTDL&GTNgoMinhAnhThu\BT_TONGHOP_SokKimThanh\bin\Debug\BT_TONGHOP_SokKimThanh.pdb
+G:\Drive của tôi\CTDL&GTNgoMinhAnhThu\BT_TONGHOP_SokKimThanh\obj\Debug\BT_TONGHOP_SokKimThanh.csproj.AssemblyReference.cache
+G:\Drive của tôi\CTDL&GTNgoMinhAnhThu\BT_TONGHOP_SokKimThanh\obj\Debug\BT_TONGHOP_SokKimThanh.csproj.SuggestedBindingRedirects.cache
+G:\Drive của tôi\CTDL&GTNgoMinhAnhThu\BT_TONGHOP_SokKimThanh\obj\Debug\BT_TONGHOP_SokKimThanh.csproj.CoreCompileInputs.cache
+G:\Drive của tôi\CTDL&GTNgoMinhAnhThu\BT_TONGHOP_SokKimThanh\obj\Debug\BT_TONGHOP_SokKimThanh.exe
+G:\Drive của tôi\CTDL&GTNgoMinhAnhThu\BT_TONGHOP_SokKimThanh\obj\Debug\BT_TONGHOP_SokKimThanh.pdb
