@@ -22,3 +22,11 @@ G:\Drive của tôi\CTDL&GTNgoMinhAnhThu\BT_TONGHOP_SokKimThanh\obj\Debug\BT_TON
 G:\Drive của tôi\CTDL&GTNgoMinhAnhThu\BT_TONGHOP_SokKimThanh\obj\Debug\BT_TONGHOP_SokKimThanh.csproj.CoreCompileInputs.cache
 G:\Drive của tôi\CTDL&GTNgoMinhAnhThu\BT_TONGHOP_SokKimThanh\obj\Debug\BT_TONGHOP_SokKimThanh.exe
 G:\Drive của tôi\CTDL&GTNgoMinhAnhThu\BT_TONGHOP_SokKimThanh\obj\Debug\BT_TONGHOP_SokKimThanh.pdb
+D:\vsp project github\QuanLyDonHang\bin\Debug\BT_TONGHOP_SokKimThanh.exe.config
+D:\vsp project github\QuanLyDonHang\bin\Debug\BT_TONGHOP_SokKimThanh.exe
+D:\vsp project github\QuanLyDonHang\bin\Debug\BT_TONGHOP_SokKimThanh.pdb
+D:\vsp project github\QuanLyDonHang\obj\Debug\BT_TONGHOP_SokKimThanh.csproj.AssemblyReference.cache
+D:\vsp project github\QuanLyDonHang\obj\Debug\BT_TONGHOP_SokKimThanh.csproj.SuggestedBindingRedirects.cache
+D:\vsp project github\QuanLyDonHang\obj\Debug\BT_TONGHOP_SokKimThanh.csproj.CoreCompileInputs.cache
+D:\vsp project github\QuanLyDonHang\obj\Debug\BT_TONGHOP_SokKimThanh.exe
+D:\vsp project github\QuanLyDonHang\obj\Debug\BT_TONGHOP_SokKimThanh.pdb
